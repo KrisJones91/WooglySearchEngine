@@ -1,5 +1,7 @@
 import { getSearchTerm } from './dataFunctions.js';
 import { setSearchFocus } from './searchBar.js'
+import { retrieveSearchResults } from './dataFunctions.js'
+
 
 
 
